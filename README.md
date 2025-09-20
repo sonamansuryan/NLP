@@ -23,7 +23,7 @@ This task demonstrates **basic text preprocessing** steps for NLP:
 ---
 
 ### 2. Regex Practice in Python
-**Notebook:** [NLP_TASK1.ipynb](https://github.com/sonamansuryan/NLP/blob/main/NLP_TASK2.ipynb)  
+**Notebook:** [NLP_TASK2.ipynb](https://github.com/sonamansuryan/NLP/blob/main/NLP_TASK2.ipynb)  
 
 This task includes **10 regex-based problems**:
 
@@ -43,7 +43,7 @@ This task includes **10 regex-based problems**:
 ---
 
 ### 3. Coachella Tweets Data Cleaning
-**Notebook:** [NLP_TASK1.ipynb](https://github.com/sonamansuryan/NLP/tree/main/NLP_TASK3)  
+**Notebook:** [NLP_TASK3.ipynb](https://github.com/sonamansuryan/NLP/tree/main/NLP_TASK3)  
 
 This task demonstrates **cleaning and extracting information from social media tweets**:
 
