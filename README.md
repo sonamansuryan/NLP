@@ -60,8 +60,3 @@ This task demonstrates **cleaning and extracting information from social media t
 11. **Save Cleaned Data** – Export cleaned tweets, hashtags, and emails to CSV.  
 
 *Focus:* Cleaning and normalizing social media text for further text analysis.
-
----
-
-**Summary:**  
-This repository provides a **comprehensive introduction to text preprocessing, regex, and data cleaning**, suitable for **students, beginners in NLP, and anyone practicing text analysis with Python**.
